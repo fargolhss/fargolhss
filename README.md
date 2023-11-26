@@ -10,17 +10,19 @@ Hello! I'm Fargol, a passionate web developer based in Tampa, Florida. With a st
 - **Other Skills**: Responsive Design, RESTful API Integration, Version Control (Git), SEO Optimization
 
 ## Professional Experience
-- **Web Developer** at [Your Company Name]
+- **Web Developer** at National Diversity Council
   - Developing and maintaining web applications using HTML, CSS, JavaScript, and PHP.
   - Integrating third-party services and APIs to enhance website functionality.
   - Collaborating with cross-functional teams to deliver high-quality web solutions.
 
-- **Salesforce Developer** at [Your Previous Company]
+- **Salesforce Developer** at National Diversity Council
   - Customizing Salesforce applications to optimize business processes.
   - Implementing solutions to improve CRM functionality and user experience.
 
 ## Education
-- Bachelor's Degree in [Your Degree], [Your University]
+- Bachelor's Degree in Electronic Engineering
+- Master's Degree in Electronic Engineering
+- PhD in Electronics.
 <!--
 ## Projects
 (Here, you can link to some of your best projects. Describe each project briefly and include the technologies used.)
